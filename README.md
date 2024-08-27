@@ -28,7 +28,7 @@ Follow these steps to set up and run the project locally:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/5x5-grid-game.git
+git clone https://github.com/pardha-saradhi-raju/21BCE5634_PARDHA-SARADHI-RAJU
 ```
 
 ### 2. Navigate to the Project Directory
@@ -36,7 +36,7 @@ git clone https://github.com/your-username/5x5-grid-game.git
 Change to the project directory:
 
 ```bash
-cd 5x5-grid-game
+cd client
 ```
 
 ### 3. Install Dependencies
